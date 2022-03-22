@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently looking for a Front-End job and doing freelas
-- 🌱 I’m currently creating a hard Javascript & Typescript base 
+- 🌱 I’m currently creating a solid Javascript & Typescript base 
 - 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
 - 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
 
