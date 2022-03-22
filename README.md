@@ -24,7 +24,7 @@
   </div>
   <br>
   
-- 🔭 I’m currently looking for a Front-End job and doing freelas[
+- 🔭 I’m currently looking for a Front-End job and doing freelas
   
 - 🌱 I’m currently creating a solid Javascript & Typescript base 
   
