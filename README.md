@@ -1,7 +1,5 @@
 ## Hi there 🤘! I'm Victor Trarbach
 
-
-
 - 🔭 I’m currently looking for a Front-End job and doing freelas
 - 🌱 I’m currently creating a solid Javascript & Typescript base 
 - 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
