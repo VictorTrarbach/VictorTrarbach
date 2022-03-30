@@ -32,4 +32,4 @@
   
 - 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
 
-  
+  “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
