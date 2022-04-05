@@ -26,7 +26,7 @@
   
 - 🔭 I’m currently looking for a Front-End job and doing freelas
   
-- 🌱 I’m currently creating a solid Javascript & Typescript base 
+- 🌱 I’m currently creating a solid Javascript & Typescript base and studying ways to practice SOLID principles
   
 - 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
   
