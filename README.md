@@ -33,6 +33,6 @@
   
 - 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
   
-- 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 03:15,58|
+- 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 02:24,2|
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
