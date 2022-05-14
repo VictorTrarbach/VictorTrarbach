@@ -38,12 +38,11 @@
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
   <p align="center"> 
-
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
+  ## Total de visitas no meu perfil :detective: <br>
+  </p>
+  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/VTNSCC/count.svg" />
- </p>
+  </p>
 
-</p>
+
  
