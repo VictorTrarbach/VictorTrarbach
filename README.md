@@ -37,12 +37,13 @@
 - 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 02:24,2|
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
-  <p align="center"> 
-  ## Total de visitas no meu perfil :detective: <br>
-  </p>
-  <p align="center"> 
+  
+ <p align="center"> 
+
+   ## <text align="center">Total de visitas no meu perfil :detective:</text> <br>
+ <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/VTNSCC/count.svg" />
-  </p>
+ </p>
 
-
+</p>
  
