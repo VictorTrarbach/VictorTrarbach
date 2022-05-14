@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
-  <p align="center"> 
+  
 - 🔭 I’m currently looking for a Front-End job and freelas
   
 - 🌱 I’m currently creating a solid Javascript & Typescript base and studying SOLID principles
@@ -37,6 +37,8 @@
 - 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 02:24,2|
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
+  <p align="center"> 
+
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
