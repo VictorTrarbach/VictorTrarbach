@@ -1,4 +1,17 @@
 ## Hi there 🤘! I'm Victor Trarbach
+
+- 🔭 I’m currently looking for a Front-End job and freelas
+  
+- 🌱 I’m currently creating a solid Javascript & Typescript base and studying SOLID principles
+  
+- 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
+  
+- 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
+  
+- 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 02:24,2|
+
+  “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
+  
   <div align="center">
     <a href="https://github.com/VTNSCC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VTNSCC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -24,15 +37,12 @@
     <a href="https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
-  
-- 🔭 I’m currently looking for a Front-End job and doing freelas
-  
-- 🌱 I’m currently creating a solid Javascript & Typescript base and studying SOLID principles
-  
-- 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
-  
-- 👯 I’m looking to collaborate on landing pages, copywriting & Web Traffic management
-  
-- 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 02:24,2|
+  <p align="center"> 
 
-  “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/VTNSCC/count.svg" />
+ </p>
+
+</p>
+ 
