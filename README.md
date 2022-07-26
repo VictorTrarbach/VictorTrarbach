@@ -2,26 +2,26 @@
 
   <div>
     <a href="https://github.com/VTNSCC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical"/>
-     
-      
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?     username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical"/>
+    </a>
   </div>
-  <div>
-   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;/>
-  </div>
-                                                                                                                                                  
+  
+  <a align="center" href="https://github.com/jackbowln">
+    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical- src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;">
+  </a>
+ 
    ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VTNS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VTNS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="VTNS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="VTNS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src="">-->
-</div>
+    <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="VTNS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="VTNS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="VTNS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="VTNS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src="">-->
+  </div>
 
   ##
   
