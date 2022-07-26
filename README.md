@@ -8,7 +8,7 @@
   </div>
   
   <a align="center" href="https://github.com/VictorTrarbach">
-    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical- src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;">
+    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical- src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact">
   </a>
  
   
