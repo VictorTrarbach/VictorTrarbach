@@ -1,13 +1,13 @@
 ## Hi there 🤘! I'm Victor Trarbach
 
   <div>
-    <a href="https://github.com/VTNSCC">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?     username=vtnscc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnscc&layout=compact&langs_count=8&theme=radical"/>
+    <a href="https://github.com/VictorTrarbach">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical"/>
     </a>
   </div>
   
-  <a align="center" href="https://github.com/jackbowln">
+  <a align="center" href="https://github.com/VictorTrarbach">
     <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical- src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;">
   </a>
  
