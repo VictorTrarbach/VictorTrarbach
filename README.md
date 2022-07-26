@@ -10,7 +10,7 @@
   <div>
    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;/>
   </div>
-  
+  <br>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
