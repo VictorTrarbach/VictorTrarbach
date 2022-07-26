@@ -3,7 +3,7 @@
   <div>
     <a href="https://github.com/VTNSCC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical"/>
   </div>
   
   [![Vtn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&line_height=23)](https://github.com/anuraghazra/github-readme-stats)
