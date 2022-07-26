@@ -7,9 +7,9 @@
      
       
   </div>
-  
+  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"/>
-  
+  </div>
   
   
   <div style="display: inline_block"><br>
