@@ -2,9 +2,13 @@
 
   <div>
     <a href="https://github.com/VTNSCC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VTNSCC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTNSCC&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=7&theme=radical"/>
   </div>
+  <div>
+   [![Vtn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VictorTrarbach)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VTNS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
