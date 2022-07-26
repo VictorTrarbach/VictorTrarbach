@@ -8,7 +8,7 @@
       
   </div>
   
-   <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical](https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&line_height=23)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&line_height=23"/>
   
   
   
