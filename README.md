@@ -8,7 +8,7 @@
       
   </div>
   <div>
-   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"/>
+   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" style="max-width: 100%;/>
   </div>
   
   
