@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=7&theme=radical"/>
   </div>
   
-  [![Vtn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+  [![Vtn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&line_height=23)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <div style="display: inline_block"><br>
