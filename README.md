@@ -12,7 +12,7 @@
     </a>
   </div>
   <a align="center" href="https://wakatime.com/goals">
-    <img align="center" height="160em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
+    <img align="center" height="155em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
   </a>
  
 ## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,tailwind,nodejs,git,express,postgres)
