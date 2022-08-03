@@ -1,11 +1,10 @@
 ## Hi there 🤘! I'm Victor Trarbach
-
-<h1 align="center">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
-  <img align="right" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
-</h1>
-
-<img height="10px" />
+   
+  <h1 align="center">
+      <img height="10px"/>
+      <img align="left" height="22em" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
+      <img align="right" height="22em" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
+  </h1>
   <div>
     <a href="https://github.com/VictorTrarbach">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
@@ -39,4 +38,6 @@
 - 🎪 Fun facts: I used to stream once in a while and i know how to solve the 3x3 Rubik Cube |My record = 00:02:24,1|
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
+  
+
   
