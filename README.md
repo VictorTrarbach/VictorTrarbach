@@ -2,8 +2,8 @@
    
   <h1 align="center">
       <img height="10px"/>
-      <img align="left" height="22em" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
-      <img align="right" height="22em" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
+      <img align="left" height="22em" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach&style=social" />
+      <img align="right" height="22em" src="https://img.shields.io/github/followers/VictorTrarbach?label=followers&style=social" />
   </h1>
   <div>
     <a href="https://github.com/VictorTrarbach">
