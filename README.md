@@ -1,5 +1,11 @@
 ## Hi there 🤘! I'm Victor Trarbach
 
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
+  <img align="right" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
+</h1>
+
+<img height="10px" />
   <div>
     <a href="https://github.com/VictorTrarbach">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
@@ -10,18 +16,8 @@
     <img align="center" height="140em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
   </a>
  
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="VTNS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="VTNS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="VTNS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="VTNS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="VTNS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src="">-->
-  </div>
-
-  ##
+## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,tailwind,nodejs,git,express,postgres)
+  <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src=""> graphql,astro,unity, -->
   
 <div>
     <a href="https://www.instagram.com/ovictortrarbach/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,12 +40,3 @@
 
   “Sorte é o que acontece quando a preparação encontra a oportunidade.” - Sêneca (4 a.C.-Roma, 65)
   
- <p align="center"> 
-
-   ## <text align="center">Total de visitas no meu perfil :detective:</text> <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/VTNSCC/count.svg" />
- </p>
-
-</p>
- 
