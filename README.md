@@ -1,10 +1,10 @@
 ## Hi there 🤘! I'm Victor Trarbach
-   
-  <h1 align="center">
-      <img height="10px"/>
-      <img align="left" height="22em" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach&style=social" />
-      <img align="right" height="22em" src="https://img.shields.io/github/followers/VictorTrarbach?label=followers&style=social" />
-  </h1>
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
+  <img align="right" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
+</h1>
+
+<img height="10px" />
   <div>
     <a href="https://github.com/VictorTrarbach">
       <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
