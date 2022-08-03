@@ -7,12 +7,12 @@
   </h1>
   <div>
     <a href="https://github.com/VictorTrarbach">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&line_height=27&include_all_commits=true"/>
+      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTrarbach&layout=compact&langs_count=8&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=VictorTrarbach&show_icons=true&theme=radical&line_height=27&include_all_commits=true"/>
     </a>
   </div>
   <a align="center" href="https://wakatime.com/goals">
-    <img align="center" height="150em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
+    <img align="center" height="130em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
   </a>
  
 ## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,tailwind,nodejs,git,express,postgres)
