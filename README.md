@@ -13,7 +13,7 @@
   </div>
   
   <a align="center" href="https://wakatime.com/goals">
-    <img align="center" height="112em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
+    <img align="center" height="185em"; height: auto; src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact&langs_count=8" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=VTNS&theme=radical&layout=compact"; style="max-width: 100%;">
   </a>
   
   <a href="https://wakatime.com/@b644802a-4b37-48b2-84ca-02be6fb7a1f8"><img src="https://wakatime.com/badge/user/b644802a-4b37-48b2-84ca-02be6fb7a1f8.svg" alt="Total time coded since Mar 20 2022" /></a>
