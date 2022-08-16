@@ -20,6 +20,7 @@
 ## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,tailwind,nodejs,git,express,postgres)
   <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src=""> graphql,astro,unity, -->
   
+  </br>
   <div>
     <a href="https://www.instagram.com/ovictortrarbach/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/bigtemon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
