@@ -19,7 +19,7 @@
   <a href="https://wakatime.com/@b644802a-4b37-48b2-84ca-02be6fb7a1f8"><img src="https://wakatime.com/badge/user/b644802a-4b37-48b2-84ca-02be6fb7a1f8.svg" alt="Total time coded since Mar 20 2022" /></a>
   </br>
   
-## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,react,tailwind,nodejs,express,postgres,sqlite,vite,nextjs,vercel,prisma)
+## ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,react,tailwind,nodejs,express,vite,postgres,sqlite,prisma,nextjs,vercel)
   <!--<img align="right" alt="VTNS-pic" height="150" style="border-radius:50px;" src=""> graphql,astro,unity, -->
   
   </br>
