@@ -33,7 +33,7 @@
   
 - 🔭 I’m currently looking for a Front-End job and freelas
   
-- 🌱 I’m currently creating a solid Javascript(ES6)/React.js base ✅, Typescript 🟩(In progress...) and practicing HTTP/DOCKER/RESTFul API
+- 🌱 I’m currently creating a solid Javascript(ES6) / React.js base ✅, Typescript 🟩(In progress...) and practicing HTTP/DOCKER/RESTFul API
   
 - 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
   
