@@ -1,4 +1,4 @@
-## Hi there 🤘! I'm Victor
+## Hi there! I'm Victor
 <!-- <h1 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VictorTrarbach.VictorTrarbach" />
   <img align="right" src="https://img.shields.io/github/followers/VictorTrarbach?label=Follow&style=social" />
