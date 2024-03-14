@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-- 🔭 I’m currently a Dropshipping Owner able to provide services of a Dev - IA automation.
+- 🔭 I’m currently a Dropshipping Owner able to provide services of Dev - IA automation.
   
 - 🌱 I’m currently creating a solid Angular Base, as much as AI learning.
   
