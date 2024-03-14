@@ -33,7 +33,7 @@
   
 - 🔭 I’m currently a Dropshipping Owner able to provide services of Dev - IA automation.
   
-- 🌱 I’m currently creating a solid Angular Base, as much as AI learning.
+- 🌱 I’m currently creating a solid Angular Base, as much as AI learning. Following curiosity.
   
 - 📫 How to reach me: https://www.linkedin.com/in/victor-trarbach-nunes-a95648b7/
   
